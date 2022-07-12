@@ -1,0 +1,5 @@
+viki@gmail.com;1234;viki;2022-01-20
+daviad@gmail.com;0987;daviad;2022-02-08
+ork@gmail.com;1995;or kilim;2022-02-08
+felix@gmail.com;1986;felix;2022-02-08
+avi@gmail.com;1477;avi;2022-02-10
